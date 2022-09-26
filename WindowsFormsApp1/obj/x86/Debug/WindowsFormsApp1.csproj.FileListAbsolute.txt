@@ -1,0 +1,13 @@
+C:\Users\gendr\source\repos\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+C:\Users\gendr\source\repos\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\gendr\source\repos\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\gendr\source\repos\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gendr\source\repos\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\gendr\source\repos\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gendr\source\repos\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\gendr\source\repos\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\gendr\source\repos\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb
+C:\Users\gendr\source\repos\WindowsFormsApp1\bin\x86\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\gendr\source\repos\WindowsFormsApp1\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\gendr\source\repos\WindowsFormsApp1\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\gendr\source\repos\WindowsFormsApp1\bin\x86\Debug\Microsoft.DirectX.DirectInput.xml
